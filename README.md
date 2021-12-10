@@ -2,6 +2,6 @@
 
 News-APIを取得し、海外ボクシングに関するニュースをPICKUPしたニュースアプリです。
 
-exp://exp.host/@nodachan/boxing-news
+https://expo.dev/artifacts/7f8d0ca4-987b-4e45-a13e-17969f5bae9c
 
 
